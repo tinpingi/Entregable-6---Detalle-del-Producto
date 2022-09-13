@@ -1,0 +1,14 @@
+{
+    "img": "https://cdn.shopify.com/s/files/1/1176/1532/products/Franziskaner_Weissbier_1_406x406.png?v=1598237035",
+    "cevezaId": 1,
+    "nombre": "Franziskaner Weissbier",
+    "marca": "Franziskaner ",
+    "precio": "$650",
+    "descripcion": "Cerveza de trigo",
+    "caracteristicas": {
+        "Origen":"Alemania ",
+        "Volumen":"500mls",
+        "Estilo":"Cerveza De Trigo"
+    },
+    "descuento": false
+}
